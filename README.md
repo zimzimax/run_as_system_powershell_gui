@@ -91,3 +91,10 @@ Switch to Manage Tasks
 Select a task → Run or Delete it
 
 That’s it — you’re running PowerShell as SYSTEM with a GUI.
+
+<img width="667" height="445" alt="image" src="https://github.com/user-attachments/assets/02a7375c-d4fb-49d5-93e4-1b77059d3418" />
+
+<img width="667" height="445" alt="image" src="https://github.com/user-attachments/assets/262037b8-9cf4-4904-9aad-447a4d854732" />
+
+
+
