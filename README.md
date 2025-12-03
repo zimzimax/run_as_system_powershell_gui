@@ -78,9 +78,11 @@ Execution Policy allowing script execution (Bypass is used internally)
 Open a powershell console as Administrator
 
 Launch the script:
+
 git clone https://github.com/zimzimax/run_as_system_powershell_gui.git
 
 cd run_as_system_powershell_gui
+
 .\RunAsSystemGUI.ps1
 
 Go to Create Task
